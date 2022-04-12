@@ -71,5 +71,3 @@ LR.GetMaxMin()
 LR.LinearReg()
 LR.Show()
 LR.SaveDatas()
-
-print(LR.PrixEstime(240000))
